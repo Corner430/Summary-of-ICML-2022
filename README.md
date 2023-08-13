@@ -19,6 +19,6 @@
 13. [其他(other)](13.其他.md): `425` 篇
 14. [summary](summary.md)
 
-- [title 汇总](title汇总.md)
+- [title 汇总](title汇总.md): `1248` 篇
 
 - [title 数据清理所用程序](clean_data.py)
